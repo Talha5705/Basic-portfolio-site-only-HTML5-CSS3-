@@ -1,0 +1,107 @@
+.wrapper{
+	height: 590px;
+	width: 85%;
+	/*border: 1px solid#000;*/
+	margin-left: auto;
+	margin-right: auto;
+}
+.nav{
+	width: auto;
+	height: 75px;
+	/*border: 1px solid#000;*/
+}
+.name{
+	font-size: 48px;
+    margin-top: 10px;
+    margin-left: 120px;
+    font-family: sans-serif;
+    color: #5eb4f9;
+
+}
+.menu ul li{
+	display:inline-block;
+	float: left;
+	font-size: 14px;
+	list-style: none;
+	margin: 50px;
+	margin-top: -43px;
+	margin-right: -36px;
+	color: #808182;
+	
+}
+.menu ul{
+	margin-left: 50%
+}
+.blockOne{
+	/*border: 1px solid#000;*/
+	width: 25%;
+	height: 250px;
+	margin-top: 2px;
+	margin-left: 400px;
+	display: inline-block;
+	float: left;
+}
+.circle{
+	border: 1px solid#536684;
+	height: 93%;
+	width: 85%;
+	border-radius: 60%;
+	margin-top: -5px;
+
+}
+#hr{
+	width: 76.5%;
+	border-color: #e0e0e0;
+	margin-top: -18px;
+	margin-left: 121px;
+	border-style: ridge;
+}
+.add{
+	height: 200px;
+	width: 233px;
+	/*border:1px solid#000;*/
+	float: left;
+	margin-top: 265px;
+	margin-left: -248px;
+	text-align: justify-all;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fb{
+	height: 35px;
+	width: 35px;
+	border-radius: 50%;
+	background: black;
+	display: inline-block;
+	margin-top: 480px;
+	margin-left: -355px;
+	/*border:1px ridge#3B5998;*/
+}
+.lin{
+	height: 35px;
+	width: 35px;
+	border-radius: 50%;
+	background: black;
+	display: inline-block;
+	margin-top: 470px;
+	margin-left: -90px;
+	/*border:1px ridge#007bb5;*/
+}
+.yt{
+	height: 35px;
+	width: 35px;
+	border-radius: 50%;
+	background: black;
+	display: inline-block;
+	margin-top: 470px;
+	margin-left: -90px;
+	/*border:1px ridge#bb0000;;*/
+}
